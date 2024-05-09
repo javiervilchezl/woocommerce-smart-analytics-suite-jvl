@@ -6,6 +6,10 @@
 
 An advanced analysis plugin for WooCommerce, to know the values of important KPIs, track them and compare them with other dates.
 
+![WooCommerce Smart Analytics Suite JVL](https://github.com/javiervilchezl/woocommerce-smart-analytics-suite-jvl/assets/161946280/709dc0a8-999a-4e81-9a99-9a890a19f464)
+
+![Tracking Analytics - WooCommerce Smart Analytics Suite JVL](https://github.com/javiervilchezl/woocommerce-smart-analytics-suite-jvl/assets/161946280/05346d4a-6aa7-4047-bd67-2bcdfd1d81b1)
+
 ## Install
 
 Download it compressed in zip, in your WordPress plugins panel select upload plugin, then activate it.
