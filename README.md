@@ -1,6 +1,6 @@
 # WooCommerce Smart Analytics Suite JVL
 
-[**License MIT**](https://github.com/javiervilchezl/woocommerce-smart-analytics-suite-jvl/blob/master/LICENSE)
+[**License MIT**](https://github.com/javiervilchezl/woocommerce-smart-analytics-suite-jvl/blob/master/LICENSE.txt)
 
 ## Description
 
